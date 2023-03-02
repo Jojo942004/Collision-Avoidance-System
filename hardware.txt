@@ -1,2 +1,0 @@
-gtx 1080 nvidia
-i7 6700k
