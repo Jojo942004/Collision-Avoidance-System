@@ -1,7 +1,7 @@
 # Collision-Avoidance-System
 
 
-Simple overview of use/purpose.
+May I present you a collision-avoidance-system using the DepthAI OAK-D
 
 ## Description
 
