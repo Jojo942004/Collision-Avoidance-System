@@ -14,9 +14,11 @@ For additional information to the project check out the detailed paper I wrote.
 ```
 git clone https://github.com/Jojo942004/Collision-Avoidance-System
 ```
-2. connect your OAK-D by Luxonis
+2. download the folders from google drive to get access to custom models trained on boat images, pretrained models of the yolov5 repo, custom boat dataset
 
-3. simply run 
+3. connect your OAK-D by Luxonis
+
+4. simply run 
 
 ```
 python collision-avoidance-system.py
