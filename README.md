@@ -25,6 +25,10 @@ https://drive.google.com/drive/folders/1P4aJD1bQrliQuO2XWLKK_LW5oQck8lYP?usp=sha
 ```
 python collision-avoidance-system.py
 ```
+### Additional Resources
+To gain access to trial data, custom models please visit
+https://drive.google.com/drive/folders/1P4aJD1bQrliQuO2XWLKK_LW5oQck8lYP?usp=share_link
+
 ### Dependencies
 depthai==2.17.4.0
 torch==1.12.0+cu116
