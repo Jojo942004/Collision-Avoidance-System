@@ -16,9 +16,8 @@ git clone https://github.com/Jojo942004/Collision-Avoidance-System
 ```
 2. download the folders from google drive to get access to custom models trained on boat images, pretrained models of the yolov5 repo, custom boat dataset
 
-```
 https://drive.google.com/drive/folders/1P4aJD1bQrliQuO2XWLKK_LW5oQck8lYP?usp=share_link
-```
+
 3. connect your OAK-D by Luxonis
 4. simply run 
 
@@ -26,7 +25,7 @@ https://drive.google.com/drive/folders/1P4aJD1bQrliQuO2XWLKK_LW5oQck8lYP?usp=sha
 python collision-avoidance-system.py
 ```
 ### Additional Resources
-To gain access to trial data, custom models please visit
+To gain access to trial data, custom models please visit  
 https://drive.google.com/drive/folders/1P4aJD1bQrliQuO2XWLKK_LW5oQck8lYP?usp=share_link
 
 ### Dependencies
@@ -62,7 +61,4 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
