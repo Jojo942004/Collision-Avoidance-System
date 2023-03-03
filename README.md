@@ -30,16 +30,16 @@ To gain access to trial data, custom models please visit
 https://drive.google.com/drive/folders/1P4aJD1bQrliQuO2XWLKK_LW5oQck8lYP?usp=share_link
 
 ### Dependencies
-depthai==2.17.4.0:-
-torch==1.12.0+cu116:-
-torchaudio==0.12.0+cu116:-
-torchvision==0.13.0+cu116:-
-opencv-contrib-python==4.6.0.66:-
-opencv-python==4.6.0.66:-
-numpy:-
-math:-
-multiprocessing:-
-time:-
+depthai==2.17.4.0  
+torch==1.12.0+cu116  
+torchaudio==0.12.0+cu116  
+torchvision==0.13.0+cu116  
+opencv-contrib-python==4.6.0.66   
+opencv-python==4.6.0.66  
+numpy  
+math  
+multiprocessing  
+time  
 
 ### Installing
 
