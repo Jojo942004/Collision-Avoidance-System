@@ -16,8 +16,10 @@ git clone https://github.com/Jojo942004/Collision-Avoidance-System
 ```
 2. download the folders from google drive to get access to custom models trained on boat images, pretrained models of the yolov5 repo, custom boat dataset
 
+```
+https://drive.google.com/drive/folders/1P4aJD1bQrliQuO2XWLKK_LW5oQck8lYP?usp=share_link
+```
 3. connect your OAK-D by Luxonis
-
 4. simply run 
 
 ```
