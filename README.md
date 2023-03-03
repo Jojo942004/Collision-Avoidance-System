@@ -5,14 +5,33 @@ May I present you a collision-avoidance-system using the DepthAI OAK-D
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+For additional information to the project check out the detailed paper I wrote.
 
 ## Getting Started
 
-### Dependencies
+1. Clone the repo
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+```
+git clone https://github.com/Jojo942004/Collision-Avoidance-System
+```
+2. connect your OAK-D by Luxonis
+
+3. simply run 
+
+```
+python collision-avoidance-system.py
+```
+### Dependencies
+depthai==2.17.4.0
+torch==1.12.0+cu116
+torchaudio==0.12.0+cu116
+torchvision==0.13.0+cu116
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+numpy
+math
+multiprocessing
+time
 
 ### Installing
 
