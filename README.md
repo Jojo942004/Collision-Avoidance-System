@@ -7,7 +7,7 @@ May I present you a collision-avoidance-system using the DepthAI OAK-D
 
 For additional information to the project check out the detailed paper I wrote. Please also check out the added code, dataset, trained models PowerPoint presentation and additional files.
 
-## Demo with model that recognizes common objects
+## Demo - YoloV5 COCO dataset
 
 
 https://user-images.githubusercontent.com/38126993/224107647-abcb29aa-e71e-4b83-9bcb-76eba793be66.mp4
