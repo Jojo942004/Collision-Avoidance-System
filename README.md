@@ -12,7 +12,8 @@ For additional information to the project check out the detailed paper I wrote. 
 
 https://user-images.githubusercontent.com/38126993/224107647-abcb29aa-e71e-4b83-9bcb-76eba793be66.mp4
 
-
+Object Detection,
+Distance Messurement and Path Finding
 
 
 
