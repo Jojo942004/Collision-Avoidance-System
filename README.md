@@ -5,7 +5,7 @@ May I present you a collision-avoidance-system using the DepthAI OAK-D
 
 ## Description
 
-For additional information to the project check out the detailed paper I wrote.
+For additional information to the project check out the detailed paper I wrote. Please also check out the added code, dataset, trained models PowerPoint presentation and additional files.
 
 ## Getting Started
 
@@ -50,15 +50,4 @@ time
 Johannes Zimmermann
 [@Jojo942004](https://github.com/Jojo942004)
 
-## Version History
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
 
