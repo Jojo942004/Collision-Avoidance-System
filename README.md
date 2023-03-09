@@ -12,7 +12,10 @@ For additional information to the project check out the detailed paper I wrote. 
 
 https://user-images.githubusercontent.com/38126993/224103241-811ba76e-fdea-41a4-99da-8f456bd0a4cc.mp4
 
+## Presentation
 
+
+[Presentation Collision Avoidance System.pdf](https://github.com/Jojo942004/Collision-Avoidance-System/files/10934253/Presentation.Collision.Avoidance.System.pdf)
 
 ## Getting Started
 
