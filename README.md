@@ -5,7 +5,7 @@ May I present you a collision-avoidance-system using the DepthAI OAK-D
 
 ## Description
 
-For additional information to the project check out the detailed paper I wrote. Please also check out the added code, dataset, trained models PowerPoint presentation and additional files.
+For additional information to the project check out the detailed paper I wrote. Please also check out the added code, dataset, trained models, PowerPoint presentation and additional files.
 https://drive.google.com/drive/folders/1P4aJD1bQrliQuO2XWLKK_LW5oQck8lYP?usp=share_link
 
 ## Demo - YoloV5 COCO dataset
